@@ -1,2 +1,12 @@
 # MIT-MAS-S63
+
 MIT MAS .S63 - recreating the past
+
+## how to set up p5.js on VS Code
+
+https://p5js.org/tutorials/setting-up-your-environment/#vscode
+
+How to create a p5.js project
+
+- Click on View on the top toolbar and select Command Palette.
+- Type Create p5.js Project in the search bar and select the folder on your machine in which you would like to save your project.
