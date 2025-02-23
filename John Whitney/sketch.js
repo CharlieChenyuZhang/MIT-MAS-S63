@@ -1,4 +1,5 @@
-// This code uses p5.js to create a fixed number of moving squares that gradually grow and shrink in size without rotation.
+// https://archive.org/details/196175JohnWhitneyAnthology 19:55
+
 let squares = [];
 let numSquares; // Variable to control the number of squares
 
